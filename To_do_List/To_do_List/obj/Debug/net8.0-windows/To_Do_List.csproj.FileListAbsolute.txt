@@ -1,0 +1,16 @@
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\bin\Debug\net8.0-windows\To_Do_List.exe
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\bin\Debug\net8.0-windows\To_Do_List.deps.json
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\bin\Debug\net8.0-windows\To_Do_List.runtimeconfig.json
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\bin\Debug\net8.0-windows\To_Do_List.dll
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\bin\Debug\net8.0-windows\To_Do_List.pdb
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.Form1.resources
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.AssemblyInfo.cs
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.dll
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\refint\To_Do_List.dll
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.pdb
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\To_Do_List.genruntimeconfig.cache
+C:\Users\Metin\source\repos\To_Do_List\To_Do_List\obj\Debug\net8.0-windows\ref\To_Do_List.dll
